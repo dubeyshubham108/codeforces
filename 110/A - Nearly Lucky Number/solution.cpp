@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    long long n;
+    cin>>n;
+    int digit=0;
+    while(n) {
+        if(n%10 == 4 || n%10 == 7) 
+            digit++;
+        n/=10;    
+    }
+    if( digit == 4 || digit == 7 ) 
+        cout<<"YES";
+    else
+        cout<<"NO";
+}
