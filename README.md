@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 171 | 23 |
+| 172 | 23 |
 
 ---
 
@@ -27,11 +27,11 @@
 - [greedy](#greedy) (41)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (98)
-- [math](#math) (70)
+- [math](#math) (71)
 - [number theory](#number-theory) (11)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (17)
+- [sortings](#sortings) (18)
 - [strings](#strings) (23)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (2)
@@ -389,6 +389,7 @@
 | 2104A | [Three Decks](https://codeforces.com/contest/2104/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2104/A%20-%20Three%20Decks/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
@@ -441,6 +442,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 2110A | [Fashionable Array](https://codeforces.com/contest/2110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2110/A%20-%20Fashionable%20Array/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/dubeyshubham108/codeforces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 
 ### strings
 
